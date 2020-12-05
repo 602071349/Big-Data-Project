@@ -1,0 +1,2 @@
+hdfs dfs -put dataset/ loudacre/
+//copy the dataset into HDFS on Dumbo.
